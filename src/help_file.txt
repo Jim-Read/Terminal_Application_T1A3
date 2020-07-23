@@ -1,0 +1,22 @@
+INSTRUCTIONS	
+============
+
+The aim of Wheel Of Fortune is to guess the word by only selecting letter and not the vowels.
+On each go, you spin the wheel and it will land on a cash prize, you earn money for each correct letter.
+
+SINGLE PLAYER MODE -  a player has 10 incorrect letter guesses or solve guesses before they are forced to guess the word - if they are correct they can play the bonus round. If they are incorrect the game is over.  They are also able to guess at anytime.   There is no buying of vowels as these are words and not phrases.  Bankruptcy is an option and takes all your money and you dont get a turn.
+
+2 PLAYER MODE -  allows two people to play against one another - Spins are taken and guesses are made and the other play will spin when the other player has made an incorrect guess on the letter or word.  This mode has no limit, and plays on as long as you need. Same rules - NO VOWELS and cant buy them.  The winner will be offered a chance to go the bonus round or alternatively a rematch option is available.   Bankruptcy is an option and takes all your money and you dont get a turn.
+
+BONUS ROUND - Similar to other rounds, but you only can have 4 spins, and 4 guesses before you are forced to try and guess the word.
+
+All modes offer the ability to save with a simple (y) or (n) option
+Spins are done from the main game board with (s) and to solve the puzzle (p) is used
+All menu selections are with ()
+
+Winning in the single player mode requires you to guess the wrong before you have had 10 wrong guesses
+Winning in the two player mode requires you to have more cash when the word is solved than you opponent - anyone can solve it
+Winning in the bonus game is solving the word with as few letters as possible - high scores are for the bragging rights
+
+Good luck!
+============
